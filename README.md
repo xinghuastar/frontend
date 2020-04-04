@@ -1,8 +1,7 @@
 # hello-world
 Just for getting started to apply github
 
-regular javascript interview queries
-
+regular javascript queries
 1.Array
 How to remove duplicate items in array.
 By Set and Array.from
